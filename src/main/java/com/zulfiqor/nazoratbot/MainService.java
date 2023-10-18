@@ -1,2 +1,7 @@
-package com.zulfiqor.nazoratbot;public class MainService {
+package com.zulfiqor.nazoratbot;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class MainService {
 }
